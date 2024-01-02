@@ -28,7 +28,7 @@ window.onload = function(){
     })
 
     let homeTyped = new Typed(".home-text", {
-        strings:["안녕하세요","정수원숭이 <br>최준봉춤입니다."],
+        strings:["안녕하세요","영상제작자 <br>김도원입니다."],
         typeSpeed:100,
         //cursorChar:"_",
         loop:true,
